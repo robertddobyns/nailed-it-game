@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Basic Nailed It background
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic app I created just to use at a birthday party for the Nailed It game. Loading a .png into the src/images file will add it to the main page.
+The image will just show the nailed it title until the space bar is pressed for dramatic effect. Image can also be hidden with space bar.
 
 ## Available Scripts
 
